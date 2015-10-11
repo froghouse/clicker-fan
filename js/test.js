@@ -1,2 +1,0 @@
-/*Testing ssh with github*/
-
